@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vibe Frontend Handbook"
+  short_description: "将 Agent PRD 转成真实前端闭环与浏览器验收"
+  default_prompt: "使用 $vibe-frontend-handbook 审查这份 Agent PRD、设计和前端项目，先输出前端技术适配声明与当前阶段方案。"
